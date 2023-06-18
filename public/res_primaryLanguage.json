@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Prince Prajapati. I am a skilled software developer with expertise in various programming languages such as Python, C#, C/C++, and JavaScript. I have experience working with frameworks like Django, Flask, and ReactJS, as well as cloud platforms like AWS EC2. With a strong foundation in database management and a passion for problem-solving, I thrive in collaborative environments and deliver innovative solutions.",
+      "description": "👋 I'm Prince Prajapati. I am a skilled software developer and designer with expertise in various programming languages such as PHP, Python, C#, C/C++, and JavaScript. I have experience working with frameworks like Django, Flask, and ReactJS, as well as cloud platforms like AWS EC2. Experience with designing tools like Adobe XD and Figma. With a strong foundation in database management and a passion for problem-solving, I thrive in collaborative environments and deliver innovative solutions.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -35,49 +35,62 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Parent's Eye",
+        "startDate": "2020",
+        "description": "Parent’s Eye is a system where the child is monitored through cameras and captures the child’s movements engaged with electronic gadgets within a specific period. And it generates hourly and weekly reports of the child’s anomalies. Sequentially, if the activity remains the same for a particular period, an alert is generated to warn the parents.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/princeprajapati/Parent-s-Eye",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Simple Basic CRUD PHP",
+        "startDate": "2020",
+        "description": "It's simple project of ecommerce website built using PHP, MySQL, JavaScript and HTML/CSS.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/princeprajapati/CRUD-with-PHP-and-MySQL",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
+      
     ],
     "experience": [
       {

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Prince Prajapati",
-      "titles": [ "Python Developer", "Full-stack Developer", "Back end Developer", "Software Developer" ],
+      "titles": [ "Web Developer","Python Developer", "Full-stack Developer", "Back end Developer", "Software Developer" ],
       "social": [
         {
           "name": "github",
@@ -14,13 +14,18 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "profile.JPG"
+      "image": "profile.jpeg"
     },
     "skills": {
       "icons": [
         {
           "name": "Python",
           "class": "devicon-python-plain",
+          "level": "100"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
           "level": "100"
         },
         {
@@ -39,8 +44,18 @@
           "level": "95"
         },
         {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "100"
+        },
+        {
           "name": "NodeJS",
           "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
           "level": "95"
         },
         {
@@ -92,6 +107,11 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
         }
       ]
     }
